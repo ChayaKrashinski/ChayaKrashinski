@@ -1,6 +1,6 @@
 # Chaya Krashinski - software developer
 
-👋 Nice to meet, I’m Chaya Krashinski
+👋 Nice to meet, I’m Chaya Kook
 
 <h2>These are the technologies I using and specialize in:</h2>
 <div align="center">
