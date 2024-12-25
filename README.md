@@ -1,4 +1,4 @@
-# Chaya Krashinski - software developer
+# Chaya Kook - software developer
 
 👋 Nice to meet, I’m Chaya Kook
 
